@@ -196,7 +196,7 @@ def player_stats(str)
       return x
     end
   end
-  return nil
+  
 end
 
 def big_shoe_rebounds
