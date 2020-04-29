@@ -140,7 +140,7 @@ def num_points_scored(str)
       return x[:points]
     end
   end
-  return nil
+  
 end
 
 def shoe_size(str)
