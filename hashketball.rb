@@ -155,7 +155,7 @@ def shoe_size(str)
       return x[:shoe]
     end
   end
-  return nil
+  
 end
 
 def team_colors(str)
